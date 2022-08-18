@@ -4,3 +4,8 @@
 #stack using array\
 #queue using array 
 
+
+
+#linkedlist
+
+
